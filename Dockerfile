@@ -5,3 +5,5 @@ RUN pip install flask
 EXPOSE 8080
 ENTRYPOINT ["python"]
 CMD ["app.py"]
+
+#this is docker file
